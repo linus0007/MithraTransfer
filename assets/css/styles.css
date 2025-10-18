@@ -1,0 +1,105 @@
+/* Colors */
+:root{
+  --orange:#f97316;
+  --teal:#0ea5a0;
+  --bg:#ffffff;
+  --text:#0b1220;
+  --muted:#5b657a;
+  --shadow:0 10px 30px rgba(0,0,0,.08);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;color:var(--text);background:var(--bg);line-height:1.5}
+img{max-width:100%;height:auto;display:block}
+.container{width:min(1100px,92vw);margin:0 auto}
+
+/* Header */
+.site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.85);backdrop-filter:saturate(1.2) blur(10px);border-bottom:1px solid rgba(15,23,42,.06)}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 0}
+.logo{font-weight:800;font-size:20px;letter-spacing:.3px}
+.logo span{color:var(--teal)}
+.subtext{font-size:12px;color:var(--muted)}
+.header-actions{display:flex;gap:10px;align-items:center}
+.chip{border:1px solid rgba(15,23,42,.1);background:#fff;border-radius:999px;padding:8px 12px;font-weight:600;cursor:pointer}
+.whatsapp{display:inline-flex;align-items:center;gap:8px;background:#25D366;color:#fff;text-decoration:none;padding:10px 14px;border-radius:12px;font-weight:700}
+
+/* Hero */
+.hero{position:relative;min-height:58vh;display:grid;place-items:center}
+.hero-media{position:absolute;inset:0;background:url('/assets/img/hero.jpg') center/cover no-repeat}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35),rgba(0,0,0,.05))}
+.hero-content{position:relative;text-align:center;color:#fff;padding:80px 0}
+.hero h1{font-size:40px;margin:0 0 8px}
+.hero p{font-size:18px;margin:0 0 20px;color:#eef2ff}
+.btn{border:none;border-radius:12px;padding:12px 18px;font-weight:800;cursor:pointer}
+.btn-primary{background:var(--orange);color:#fff;box-shadow:var(--shadow)}
+.btn-ghost{background:transparent;border:1px solid rgba(15,23,42,.15);color:var(--text)}
+
+/* Pricing */
+.pricing{padding:40px 0 64px;background:linear-gradient(180deg,#fff,#f8fafc)}
+.pricing-controls{display:grid;grid-template-columns:1fr 1fr;gap:14px 14px;align-items:end;margin-bottom:16px}
+.control label{display:block;font-weight:700;margin-bottom:6px;color:var(--muted)}
+.control input,.control select{width:100%;padding:12px 14px;border:1px solid rgba(15,23,42,.12);border-radius:12px}
+.vehicle-tabs{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap}
+.tab{padding:10px 14px;border-radius:999px;border:1px solid rgba(15,23,42,.12);background:#fff;font-weight:700;cursor:pointer}
+.tab.active{background:var(--text);color:#fff}
+.currency-toggle{display:flex;align-items:center;gap:10px}
+.currency-options{display:flex;gap:6px}
+.currency{padding:8px 12px;border-radius:999px;border:1px solid rgba(15,23,42,.12);background:#fff;font-weight:700;cursor:pointer}
+.currency.active{background:var(--teal);color:#fff}
+
+.route-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.route-card{background:#fff;border:1px solid rgba(15,23,42,.08);border-radius:14px;padding:14px;box-shadow:var(--shadow);display:flex;justify-content:space-between;align-items:center;gap:10px;transition:transform .2s ease, box-shadow .2s ease}
+.route-card:hover{transform:translateY(-2px);box-shadow:0 16px 36px rgba(0,0,0,.12)}
+.route-meta{display:flex;flex-direction:column}
+.route-title{font-weight:800;margin-bottom:4px}
+.route-sub{color:var(--muted);font-size:12px}
+.route-price{font-weight:900;font-size:18px}
+.card-actions{display:flex;gap:8px;align-items:center}
+
+/* Fleet */
+.fleet{padding:40px 0}
+.fleet-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.fleet-card{background:#fff;border:1px solid rgba(15,23,42,.08);border-radius:14px;box-shadow:var(--shadow);padding:16px;text-align:center}
+.fleet-media{height:120px;border-radius:12px;margin-bottom:10px;background:linear-gradient(135deg,rgba(14,165,160,.2),rgba(249,115,22,.2))}
+.fleet-media.car{background:url('/assets/img/car.jpg') center/cover no-repeat}
+.fleet-media.minibus{background:url('/assets/img/vito.jpg') center/cover no-repeat}
+.fleet-media.crafter{background:url('/assets/img/crafter.jpg') center/cover no-repeat}
+.fleet-media.ultralux{background:url('/assets/img/maybach.jpg') center/cover no-repeat}
+
+/* Booking */
+.booking-page main{padding:30px 0 60px;background:linear-gradient(180deg,#fff,#f8fafc)}
+.booking-grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+.card{background:#fff;border:1px solid rgba(15,23,42,.08);border-radius:14px;box-shadow:var(--shadow);padding:16px}
+.row{display:grid;grid-template-columns:1fr;gap:10px;margin-bottom:10px}
+.row.two{grid-template-columns:1fr 1fr}
+.field label{display:block;font-weight:700;margin-bottom:6px;color:var(--muted)}
+.field input,.field select{width:100%;padding:12px 14px;border:1px solid rgba(15,23,42,.12);border-radius:12px}
+.price-summary .summary-line{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px dashed rgba(15,23,42,.08)}
+.price-summary .summary-line.total{font-size:18px;font-weight:900;border-bottom:none;padding-top:12px}
+.checkbox{display:flex;align-items:center;gap:10px}
+.actions{display:flex;justify-content:space-between;align-items:center}
+
+/* Footer */
+.site-footer{padding:20px 0;border-top:1px solid rgba(15,23,42,.06)}
+.footer-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.footer-link{display:flex;align-items:center;gap:8px;color:var(--text);text-decoration:none;font-weight:700;justify-content:center;padding:10px;border-radius:10px;transition:background .2s}
+.footer-link:hover{background:rgba(14,165,160,.08)}
+
+/* Chat */
+.chat-widget{position:fixed;right:20px;bottom:20px;z-index:40}
+.chat-toggle{background:var(--text);color:#fff;border:none;border-radius:999px;padding:12px 16px;font-weight:800;box-shadow:var(--shadow);cursor:pointer}
+.chat-panel{position:fixed;right:20px;bottom:74px;width:320px;max-width:90vw;background:#fff;border:1px solid rgba(15,23,42,.08);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column}
+.chat-header{padding:12px 14px;font-weight:800;background:linear-gradient(90deg,var(--teal),var(--orange));color:#fff}
+.chat-body{padding:12px;min-height:160px;max-height:40vh;overflow:auto}
+.chat-form{display:flex;gap:8px;padding:12px;border-top:1px solid rgba(15,23,42,.08)}
+.chat-form input{flex:1;padding:10px;border:1px solid rgba(15,23,42,.12);border-radius:10px}
+.chat-form button{padding:10px 12px;border:none;border-radius:10px;background:var(--teal);color:#fff;font-weight:800}
+
+/* Responsive */
+@media (max-width: 900px){
+  .pricing-controls{grid-template-columns:1fr}
+  .route-list{grid-template-columns:1fr}
+  .fleet-grid{grid-template-columns:repeat(2,1fr)}
+  .booking-grid{grid-template-columns:1fr}
+  .footer-grid{grid-template-columns:repeat(2,1fr)}
+}

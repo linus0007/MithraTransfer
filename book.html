@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Book Transfer — Mithra Transfer</title>
+  <meta name="description" content="Confirm your Antalya airport transfer with Mithra Transfer. Fixed prices, multilingual, live currencies, WhatsApp confirmation." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="icon" href="/assets/img/favicon.png">
+  <meta name="theme-color" content="#0ea5a0" />
+  <script defer src="/assets/js/i18n.js"></script>
+  <script defer src="/assets/js/rates.js"></script>
+  <script defer src="/assets/js/booking.js"></script>
+</head>
+<body class="booking-page">
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <a class="logo" href="/">Mithra <span>Transfer</span></a>
+        <div class="subtext">Since 1991 — Antalya Airport Transfers</div>
+      </div>
+      <nav class="header-actions">
+        <button id="langBtn" class="chip" aria-haspopup="listbox"></button>
+        <button id="currencyBtn" class="chip" aria-haspopup="listbox"></button>
+        <a id="whatsappHeader" class="whatsapp" href="#" target="_blank" rel="noopener" aria-label="WhatsApp">
+          <span>WhatsApp</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="booking">
+      <div class="container booking-grid">
+        <form id="bookingForm" class="card">
+          <h1 data-i18n="booking.title">Confirm Booking</h1>
+          <div class="row two">
+            <div class="field">
+              <label data-i18n="booking.name">Name</label>
+              <input id="name" required />
+            </div>
+            <div class="field">
+              <label data-i18n="booking.phone">Phone</label>
+              <input id="phone" type="tel" required />
+            </div>
+          </div>
+          <div class="row two">
+            <div class="field">
+              <label data-i18n="booking.whatsapp">WhatsApp</label>
+              <input id="whatsapp" type="tel" />
+            </div>
+            <div class="field">
+              <label data-i18n="booking.passengers">Passengers</label>
+              <input id="passengers" type="number" min="1" max="99" value="2" />
+            </div>
+          </div>
+          <div class="row two">
+            <div class="field">
+              <label data-i18n="booking.pickup">Pick-up</label>
+              <input id="pickup" required />
+            </div>
+            <div class="field">
+              <label data-i18n="booking.dropoff">Drop-off</label>
+              <input id="dropoff" required />
+            </div>
+          </div>
+          <div class="row two">
+            <div class="field">
+              <label data-i18n="booking.datetime">Date & Time</label>
+              <input id="datetime" type="datetime-local" required />
+            </div>
+            <div class="field">
+              <label data-i18n="booking.vehicle">Vehicle</label>
+              <select id="vehicle">
+                <option value="car" data-i18n="vehicles.car">Passenger Car</option>
+                <option value="minibus" data-i18n="vehicles.minibus">Minibus</option>
+                <option value="crafter" data-i18n="vehicles.crafter">Crafter</option>
+                <option value="ultralux" data-i18n="vehicles.ultralux">UltraLux</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <label class="checkbox">
+              <input type="checkbox" id="returnTrip" />
+              <span data-i18n="booking.return">Add Return Trip</span>
+            </label>
+          </div>
+          <div class="row actions">
+            <button type="button" id="reverseBtn" class="btn btn-ghost" data-i18n="booking.reverse">Reverse Route</button>
+            <button type="submit" class="btn btn-primary" data-i18n="booking.confirm">Confirm Booking</button>
+          </div>
+        </form>
+
+        <aside class="card price-summary">
+          <h2 data-i18n="booking.summary">Price Summary</h2>
+          <div class="summary-line"><span data-i18n="booking.from">From</span><strong id="summaryFrom">-</strong></div>
+          <div class="summary-line"><span data-i18n="booking.to">To</span><strong id="summaryTo">-</strong></div>
+          <div class="summary-line"><span data-i18n="booking.vehicleLabel">Vehicle</span><strong id="summaryVehicle">-</strong></div>
+          <div class="summary-line total"><span data-i18n="booking.total">Total</span><strong id="summaryTotal">€0</strong></div>
+          <p class="note" data-i18n="booking.note">Fixed price — taxes and fees included.</p>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <a href="https://mithratravel.com" target="_blank" rel="noopener" class="footer-link">
+        <span>🧭</span> MithraTravel.com
+      </a>
+      <a href="https://mithratransfers.com" target="_blank" rel="noopener" class="footer-link">
+        <span>🚗</span> MithraTransfers.com
+      </a>
+      <a href="https://mithratrips.com" target="_blank" rel="noopener" class="footer-link">
+        <span>🏝️</span> MithraTrips.com
+      </a>
+      <a href="https://mithrayachting.com" target="_blank" rel="noopener" class="footer-link">
+        <span>⛵</span> MithraYachting.com
+      </a>
+    </div>
+  </footer>
+</body>
+</html>
