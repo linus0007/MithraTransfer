@@ -1,0 +1,26 @@
+[
+  {
+    "id": "passenger_car",
+    "name": "Passenger Car",
+    "capacity": 4,
+    "description": "Modern sedans for 1–4 passengers (e.g., Fiat Egea, Toyota Corolla)."
+  },
+  {
+    "id": "minibus",
+    "name": "Minibus",
+    "capacity": 9,
+    "description": "Comfortable vans for 1–9 passengers (e.g., Mercedes Vito, VW Caravelle)."
+  },
+  {
+    "id": "crafter",
+    "name": "Crafter",
+    "capacity": 14,
+    "description": "Extended luxury vans for 1–14 passengers (e.g., Mercedes Sprinter)."
+  },
+  {
+    "id": "ultralux",
+    "name": "UltraLux",
+    "capacity": 5,
+    "description": "Premium chauffeur-driven vehicles (e.g., Maybach, Mercedes S-Class)."
+  }
+]

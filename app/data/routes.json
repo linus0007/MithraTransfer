@@ -1,0 +1,19 @@
+[
+  {"id": "ayt_lara", "from_id": "ayt", "to_id": "lara_kundu", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 25, "minibus": 35, "crafter": 50, "ultralux": 120}, "estimated_duration_min": 25},
+  {"id": "ayt_belek", "from_id": "ayt", "to_id": "belek", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 35, "minibus": 45, "crafter": 65, "ultralux": 140}, "estimated_duration_min": 35},
+  {"id": "ayt_kemer", "from_id": "ayt", "to_id": "kemer", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 45, "minibus": 60, "crafter": 80, "ultralux": 160}, "estimated_duration_min": 60},
+  {"id": "ayt_side", "from_id": "ayt", "to_id": "side", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 55, "minibus": 75, "crafter": 95, "ultralux": 180}, "estimated_duration_min": 60},
+  {"id": "ayt_alanya", "from_id": "ayt", "to_id": "alanya", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 75, "minibus": 95, "crafter": 130, "ultralux": 220}, "estimated_duration_min": 100},
+  {"id": "ayt_kas", "from_id": "ayt", "to_id": "kas", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 150, "minibus": 180, "crafter": 240, "ultralux": 400}, "estimated_duration_min": 210},
+  {"id": "ayt_kalkan", "from_id": "ayt", "to_id": "kalkan", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 160, "minibus": 190, "crafter": 250, "ultralux": 420}, "estimated_duration_min": 220},
+  {"id": "ayt_fethiye", "from_id": "ayt", "to_id": "fethiye", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 180, "minibus": 210, "crafter": 280, "ultralux": 450}, "estimated_duration_min": 210},
+  {"id": "ayt_antalya_center", "from_id": "ayt", "to_id": "antalya_center", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 25, "minibus": 35, "crafter": 50, "ultralux": 120}, "estimated_duration_min": 30},
+  {"id": "ayt_konyaalti", "from_id": "ayt", "to_id": "konyaalti", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 30, "minibus": 40, "crafter": 55, "ultralux": 130}, "estimated_duration_min": 40},
+  {"id": "antalya_center_lara", "from_id": "antalya_center", "to_id": "lara_kundu", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 20, "minibus": 30, "crafter": 45, "ultralux": 110}, "estimated_duration_min": 25},
+  {"id": "antalya_center_belek", "from_id": "antalya_center", "to_id": "belek", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 40, "minibus": 55, "crafter": 75, "ultralux": 150}, "estimated_duration_min": 45},
+  {"id": "belek_side", "from_id": "belek", "to_id": "side", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 35, "minibus": 45, "crafter": 65, "ultralux": 140}, "estimated_duration_min": 45},
+  {"id": "side_alanya", "from_id": "side", "to_id": "alanya", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 25, "minibus": 35, "crafter": 50, "ultralux": 120}, "estimated_duration_min": 60},
+  {"id": "ayt_pamukkale", "from_id": "ayt", "to_id": "pamukkale", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 220, "minibus": 260, "crafter": 330, "ultralux": 520}, "estimated_duration_min": 300},
+  {"id": "ayt_gazipasa_airport", "from_id": "ayt", "to_id": "gazipasa_airport", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 110, "minibus": 140, "crafter": 190, "ultralux": 320}, "estimated_duration_min": 140},
+  {"id": "ayt_isparta_airport", "from_id": "ayt", "to_id": "isparta_airport", "bidirectional": true, "prices_by_vehicle": {"passenger_car": 140, "minibus": 170, "crafter": 230, "ultralux": 360}, "estimated_duration_min": 150}
+]

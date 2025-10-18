@@ -1,0 +1,10 @@
+{
+  "base_currency": "EUR",
+  "rates": {
+    "EUR": 1.0,
+    "USD": 1.10,
+    "GBP": 0.86,
+    "TRY": 36.0
+  },
+  "last_updated_iso": "2025-10-18T00:00:00Z"
+}

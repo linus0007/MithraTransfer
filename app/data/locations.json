@@ -1,0 +1,21 @@
+[
+  {"id": "ayt", "name": "Antalya Airport (AYT)", "type": "airport", "code": "AYT", "region": "Antalya", "name_translations": {"en": "Antalya Airport", "tr": "Antalya Havalimanı"}},
+  {"id": "antalya_center", "name": "Antalya Center", "type": "city", "region": "Antalya", "name_translations": {"en": "Antalya Center", "tr": "Antalya Merkez"}},
+  {"id": "konyaalti", "name": "Konyaaltı", "type": "coastal_area", "region": "Antalya"},
+  {"id": "lara_kundu", "name": "Lara / Kundu", "type": "resort", "region": "Antalya"},
+  {"id": "belek", "name": "Belek", "type": "resort", "region": "Serik"},
+  {"id": "kemer", "name": "Kemer", "type": "resort", "region": "Kemer"},
+  {"id": "tekirova", "name": "Tekirova", "type": "coastal_area", "region": "Kemer"},
+  {"id": "camyuva", "name": "Çamyuva", "type": "coastal_area", "region": "Kemer"},
+  {"id": "adrasan", "name": "Adrasan", "type": "coastal_area", "region": "Kumluca"},
+  {"id": "side", "name": "Side", "type": "resort", "region": "Manavgat"},
+  {"id": "alanya", "name": "Alanya", "type": "city", "region": "Alanya"},
+  {"id": "avsallar", "name": "Avsallar", "type": "coastal_area", "region": "Alanya"},
+  {"id": "mahmutlar", "name": "Mahmutlar", "type": "coastal_area", "region": "Alanya"},
+  {"id": "kas", "name": "Kaş", "type": "coastal_area", "region": "Antalya"},
+  {"id": "kalkan", "name": "Kalkan", "type": "coastal_area", "region": "Antalya"},
+  {"id": "fethiye", "name": "Fethiye", "type": "city", "region": "Muğla"},
+  {"id": "pamukkale", "name": "Pamukkale", "type": "region", "region": "Denizli"},
+  {"id": "isparta_airport", "name": "Isparta Airport (ISE)", "type": "airport", "code": "ISE", "region": "Isparta"},
+  {"id": "gazipasa_airport", "name": "Gazipaşa Airport (GZP)", "type": "airport", "code": "GZP", "region": "Alanya"}
+]
