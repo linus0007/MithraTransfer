@@ -3,7 +3,7 @@ import type { VehicleType } from '@/lib/store';
 export interface PricingRecord {
   from: string;
   to: string;
-  prices: Record<VehicleType, number>;
+  prices: Partial<Record<VehicleType, number>>;
 }
 
 export interface PricingResponse {

@@ -8,7 +8,7 @@ export type VehicleType = 'car' | 'minibus' | 'crafter' | 'ultralux';
 export interface PricingRow {
   region: string;
   destination: string;
-  prices: Record<VehicleType, number>;
+  prices: Partial<Record<VehicleType, number>>;
 }
 
 interface ExchangeRates {

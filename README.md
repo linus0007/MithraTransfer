@@ -21,14 +21,25 @@ npm run dev
 - Multi-currency conversion (EUR, USD, GBP, TRY) powered by exchange API route and persisted preferences.
 - Dynamic pricing API endpoint that streams pricing data from `data/pricingData.json` on demand.
 - Responsive design with sticky pricing table header and mobile-friendly layout.
+- 1,100+ Antalya routes captured in the pricing dataset with automatic filtering for each vehicle tier.
+- Comprehensive marketing pages (About, Services, Fleet, Destinations, Blog, FAQ, Contact, Privacy, Terms) mirroring the full Mithra Travel website experience.
 
 ## Project Structure
 
 ```
 app/
   api/          # Next.js API routes
+  about/        # About page
+  blog/         # Journal listing and articles
   components/   # Reusable UI components
   book/         # Future-ready booking route stubs
+  contact/      # Concierge contact form
+  destinations/ # Region highlights and SEO copy
+  faq/          # Frequently asked questions
+  fleet/        # Fleet showcase
+  privacy/      # Privacy policy
+  services/     # Service catalogue
+  terms/        # Terms & conditions
   page.tsx      # Main pricing experience
   layout.tsx    # Root layout and metadata
 lib/            # State, i18n, and pricing helpers

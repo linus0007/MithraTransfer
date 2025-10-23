@@ -65,7 +65,7 @@ export default function PricingTable() {
   }, [rows, rates, currency]);
 
   return (
-    <section className={isRtl ? 'rtl' : ''}>
+    <section id="pricing" className={isRtl ? 'rtl' : ''}>
       <div className="table-container card px-0 py-0">
         <table className="table">
           <thead>

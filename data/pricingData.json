@@ -1,28 +1,11398 @@
 [
-  { "from": "Antalya Airport", "to": "Antalya Center", "prices": { "car": 30, "minibus": 40, "crafter": 60, "ultralux": 120 } },
-  { "from": "Antalya Airport", "to": "Konyaalti", "prices": { "car": 35, "minibus": 45, "crafter": 65, "ultralux": 130 } },
-  { "from": "Antalya Airport", "to": "Lara / Kundu", "prices": { "car": 30, "minibus": 40, "crafter": 60, "ultralux": 120 } },
-  { "from": "Antalya Airport", "to": "Belek", "prices": { "car": 45, "minibus": 60, "crafter": 85, "ultralux": 170 } },
-  { "from": "Antalya Airport", "to": "Bogazkent", "prices": { "car": 50, "minibus": 65, "crafter": 90, "ultralux": 180 } },
-  { "from": "Antalya Airport", "to": "Side", "prices": { "car": 65, "minibus": 85, "crafter": 120, "ultralux": 220 } },
-  { "from": "Antalya Airport", "to": "Alanya", "prices": { "car": 110, "minibus": 140, "crafter": 190, "ultralux": 320 } },
-  { "from": "Antalya Airport", "to": "Avsallar", "prices": { "car": 95, "minibus": 120, "crafter": 170, "ultralux": 300 } },
-  { "from": "Antalya Airport", "to": "Mahmutlar", "prices": { "car": 115, "minibus": 145, "crafter": 195, "ultralux": 340 } },
-  { "from": "Antalya Airport", "to": "Kemer", "prices": { "car": 55, "minibus": 70, "crafter": 100, "ultralux": 180 } },
-  { "from": "Antalya Airport", "to": "Tekirova", "prices": { "car": 80, "minibus": 105, "crafter": 150, "ultralux": 260 } },
-  { "from": "Antalya Airport", "to": "Camyuva", "prices": { "car": 65, "minibus": 85, "crafter": 120, "ultralux": 220 } },
-  { "from": "Antalya Airport", "to": "Adrasan", "prices": { "car": 95, "minibus": 120, "crafter": 170, "ultralux": 300 } },
-  { "from": "Antalya Airport", "to": "Kas", "prices": { "car": 160, "minibus": 210, "crafter": 280, "ultralux": 450 } },
-  { "from": "Antalya Airport", "to": "Kalkan", "prices": { "car": 175, "minibus": 225, "crafter": 295, "ultralux": 470 } },
-  { "from": "Antalya Airport", "to": "Fethiye", "prices": { "car": 220, "minibus": 290, "crafter": 380, "ultralux": 600 } },
-  { "from": "Antalya Airport", "to": "Pamukkale", "prices": { "car": 240, "minibus": 320, "crafter": 420, "ultralux": 650 } },
-  { "from": "Antalya Airport", "to": "Isparta Airport", "prices": { "car": 150, "minibus": 200, "crafter": 270, "ultralux": 420 } },
-  { "from": "Antalya Airport", "to": "Gazipasa Airport", "prices": { "car": 140, "minibus": 190, "crafter": 260, "ultralux": 410 } },
-  { "from": "Antalya Center", "to": "Antalya Airport", "prices": { "car": 30, "minibus": 40, "crafter": 60, "ultralux": 120 } },
-  { "from": "Antalya Center", "to": "Konyaalti", "prices": { "car": 20, "minibus": 30, "crafter": 45, "ultralux": 100 } },
-  { "from": "Antalya Center", "to": "Belek", "prices": { "car": 55, "minibus": 70, "crafter": 95, "ultralux": 180 } },
-  { "from": "Antalya Center", "to": "Side", "prices": { "car": 70, "minibus": 90, "crafter": 130, "ultralux": 240 } },
-  { "from": "Belek", "to": "Antalya Airport", "prices": { "car": 45, "minibus": 60, "crafter": 85, "ultralux": 170 } },
-  { "from": "Alanya", "to": "Antalya Airport", "prices": { "car": 110, "minibus": 140, "crafter": 190, "ultralux": 320 } },
-  { "from": "Kemer", "to": "Antalya Airport", "prices": { "car": 55, "minibus": 70, "crafter": 100, "ultralux": 180 } }
+  {
+    "from": "Antalya Airport",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Alanya",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Belek",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 75,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kestel",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Airport",
+    "to": "Üzümlü, Alanya/Antalya",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Alanya",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 90,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Avsallar",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Belek",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 130,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 135,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 285,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kemer",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kestel",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kızılot",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Konaklı",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Side",
+    "prices": {
+      "car": 105,
+      "minibus": 125,
+      "crafter": 165,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Tekirova",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Adrasan",
+    "to": "Türkler",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Avsallar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Konaklı",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Alanya",
+    "to": "Türkler",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Alanya",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Avsallar",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Kestel",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Kızılot",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Konaklı",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Alanya Kalesi",
+    "to": "Türkler",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Alanya",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Avsallar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Belek",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kestel",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kızılot",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Konaklı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Side",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Antalya Center",
+    "to": "Türkler",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Adrasan",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 90,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Alanya",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Belek",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 85,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Çıralı",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 90,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 40,
+      "minibus": 55,
+      "crafter": 65,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 105,
+      "minibus": 155,
+      "crafter": 205,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kalkan",
+    "prices": {
+      "car": 125,
+      "minibus": 165,
+      "crafter": 205,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kaş",
+    "prices": {
+      "car": 125,
+      "minibus": 165,
+      "crafter": 205,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kemer",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kestel",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Kumluca",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 100,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 185,
+      "minibus": 235,
+      "crafter": 305,
+      "ultralux": 245
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Tekirova",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 85,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Antalya Expo",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Avsallar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 350,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 300,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 170,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Konaklı",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 195,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 400,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 150,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Avsallar",
+    "to": "Türkler",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Adrasan",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 130,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Alanya",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Belek",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 75,
+      "minibus": 95,
+      "crafter": 125,
+      "ultralux": 105
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Çıralı",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 130,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 195,
+      "minibus": 245,
+      "crafter": 295,
+      "ultralux": 255
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 60,
+      "minibus": 85,
+      "crafter": 105,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 125,
+      "minibus": 185,
+      "crafter": 245,
+      "ultralux": 195
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kalkan",
+    "prices": {
+      "car": 145,
+      "minibus": 195,
+      "crafter": 245,
+      "ultralux": 205
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kaş",
+    "prices": {
+      "car": 145,
+      "minibus": 195,
+      "crafter": 245,
+      "ultralux": 205
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kemer",
+    "prices": {
+      "car": 65,
+      "minibus": 85,
+      "crafter": 115,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 60,
+      "minibus": 85,
+      "crafter": 105,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kestel",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Kumluca",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 140,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 205,
+      "minibus": 265,
+      "crafter": 345,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Tekirova",
+    "prices": {
+      "car": 75,
+      "minibus": 95,
+      "crafter": 125,
+      "ultralux": 105
+    }
+  },
+  {
+    "from": "Belek",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Adrasan",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 135,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Alanya",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Belek",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Çıralı",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 135,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 200,
+      "minibus": 250,
+      "crafter": 300,
+      "ultralux": 260
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 65,
+      "minibus": 90,
+      "crafter": 110,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 130,
+      "minibus": 190,
+      "crafter": 250,
+      "ultralux": 200
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kalkan",
+    "prices": {
+      "car": 150,
+      "minibus": 200,
+      "crafter": 250,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kaş",
+    "prices": {
+      "car": 150,
+      "minibus": 200,
+      "crafter": 250,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kemer",
+    "prices": {
+      "car": 70,
+      "minibus": 90,
+      "crafter": 120,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 65,
+      "minibus": 90,
+      "crafter": 110,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kestel",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Kumluca",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 145,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 210,
+      "minibus": 270,
+      "crafter": 350,
+      "ultralux": 280
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Tekirova",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Boğazkent",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Alanya",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 85,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Avsallar",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Belek",
+    "prices": {
+      "car": 75,
+      "minibus": 95,
+      "crafter": 125,
+      "ultralux": 105
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 210,
+      "crafter": 280,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kemer",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kestel",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kızılot",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Konaklı",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Side",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Çamyuva",
+    "to": "Türkler",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Alanya",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 90,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Belek",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 130,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 135,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 285,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kemer",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kestel",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Side",
+    "prices": {
+      "car": 105,
+      "minibus": 125,
+      "crafter": 165,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Tekirova",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Çıralı",
+    "to": "Türkler",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Adrasan",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Alanya",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 75,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Belek",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Çıralı",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kalkan",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kaş",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kemer",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kestel",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Kumluca",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Side",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Tekirova",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Demirtaş",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Alanya",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Kestel",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Dim Çayı",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Alanya",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Avsallar",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Kestel",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Kızılot",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 70
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Dim Mağarası",
+    "to": "Türkler",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Adrasan",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Alanya",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Avsallar",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 350,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Belek",
+    "prices": {
+      "car": 195,
+      "minibus": 245,
+      "crafter": 295,
+      "ultralux": 255
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 200,
+      "minibus": 250,
+      "crafter": 300,
+      "ultralux": 260
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Çıralı",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 250,
+      "minibus": 315,
+      "crafter": 400
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 250,
+      "minibus": 315,
+      "crafter": 400
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 270,
+      "minibus": 360,
+      "crafter": 450,
+      "ultralux": 370
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kemer",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kestel",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 340,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kızılot",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 340,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Konaklı",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Kumluca",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 350,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Side",
+    "prices": {
+      "car": 215,
+      "minibus": 265,
+      "crafter": 330,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Tekirova",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Fethiye, Muğla",
+    "to": "Türkler",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Adrasan",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Alanya",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Belek",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Çıralı",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 250,
+      "minibus": 315,
+      "crafter": 400
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kalkan",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kaş",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kemer",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kestel",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Kumluca",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Side",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Tekirova",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Gazipasa Airport",
+    "to": "Üzümlü, Alanya/Antalya",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 15,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Adrasan",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Alanya",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Avsallar",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Belek",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Çıralı",
+    "prices": {
+      "car": 140,
+      "minibus": 175,
+      "crafter": 235,
+      "ultralux": 185
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 250,
+      "minibus": 315,
+      "crafter": 400
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kalkan",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kaş",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kemer",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kestel",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kızılot",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Konaklı",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Kumluca",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Side",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Tekirova",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Gazipaşa Center",
+    "to": "Türkler",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Alanya",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 40,
+      "minibus": 55,
+      "crafter": 65,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Belek",
+    "prices": {
+      "car": 60,
+      "minibus": 85,
+      "crafter": 105,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 65,
+      "minibus": 90,
+      "crafter": 110,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 135,
+      "minibus": 200,
+      "crafter": 260,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kestel",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Side",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 140,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Geyikbayırı",
+    "to": "Türkler",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Adrasan",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 285,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Alanya",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 105,
+      "minibus": 155,
+      "crafter": 205,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Avsallar",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 300,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Belek",
+    "prices": {
+      "car": 125,
+      "minibus": 185,
+      "crafter": 245,
+      "ultralux": 195
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 130,
+      "minibus": 190,
+      "crafter": 250,
+      "ultralux": 200
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 150,
+      "minibus": 210,
+      "crafter": 280,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Çıralı",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 285,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 270,
+      "minibus": 360,
+      "crafter": 450,
+      "ultralux": 370
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 180,
+      "minibus": 255,
+      "crafter": 350,
+      "ultralux": 265
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 135,
+      "minibus": 200,
+      "crafter": 260,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kalkan",
+    "prices": {
+      "car": 220,
+      "minibus": 310,
+      "crafter": 400,
+      "ultralux": 320
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kaş",
+    "prices": {
+      "car": 220,
+      "minibus": 310,
+      "crafter": 400,
+      "ultralux": 320
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kemer",
+    "prices": {
+      "car": 140,
+      "minibus": 200,
+      "crafter": 270,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 135,
+      "minibus": 200,
+      "crafter": 260,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kestel",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 290,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kızılot",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 290,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Konaklı",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 125,
+      "minibus": 185,
+      "crafter": 245,
+      "ultralux": 195
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Kumluca",
+    "prices": {
+      "car": 165,
+      "minibus": 225,
+      "crafter": 295,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 300,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 280,
+      "minibus": 380,
+      "crafter": 500,
+      "ultralux": 390
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Side",
+    "prices": {
+      "car": 145,
+      "minibus": 205,
+      "crafter": 280,
+      "ultralux": 215
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Tekirova",
+    "prices": {
+      "car": 150,
+      "minibus": 210,
+      "crafter": 280,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Isparta Airport",
+    "to": "Türkler",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Adrasan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Alanya",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 125,
+      "minibus": 165,
+      "crafter": 205,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Avsallar",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Belek",
+    "prices": {
+      "car": 145,
+      "minibus": 195,
+      "crafter": 245,
+      "ultralux": 205
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 150,
+      "minibus": 200,
+      "crafter": 250,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Çıralı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 220,
+      "minibus": 310,
+      "crafter": 400,
+      "ultralux": 320
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kemer",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kestel",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kızılot",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Konaklı",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Kumluca",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Side",
+    "prices": {
+      "car": 165,
+      "minibus": 215,
+      "crafter": 280,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Tekirova",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kalkan",
+    "to": "Türkler",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Adrasan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Alanya",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 125,
+      "minibus": 165,
+      "crafter": 205,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Avsallar",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Belek",
+    "prices": {
+      "car": 145,
+      "minibus": 195,
+      "crafter": 245,
+      "ultralux": 205
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 150,
+      "minibus": 200,
+      "crafter": 250,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Çıralı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 200,
+      "minibus": 265,
+      "crafter": 350,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 220,
+      "minibus": 310,
+      "crafter": 400,
+      "ultralux": 320
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kemer",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kestel",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kızılot",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Konaklı",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Kumluca",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Side",
+    "prices": {
+      "car": 165,
+      "minibus": 215,
+      "crafter": 280,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Tekirova",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kaş",
+    "to": "Türkler",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Alanya",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Avsallar",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 170,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Belek",
+    "prices": {
+      "car": 65,
+      "minibus": 85,
+      "crafter": 115,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 70,
+      "minibus": 90,
+      "crafter": 120,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 120,
+      "minibus": 155,
+      "crafter": 220,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 140,
+      "minibus": 200,
+      "crafter": 270,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kestel",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kızılot",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Konaklı",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 170,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Side",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kemer",
+    "to": "Türkler",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Alanya",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Belek",
+    "prices": {
+      "car": 60,
+      "minibus": 85,
+      "crafter": 105,
+      "ultralux": 95
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 65,
+      "minibus": 90,
+      "crafter": 110,
+      "ultralux": 100
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 115,
+      "minibus": 155,
+      "crafter": 210,
+      "ultralux": 165
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 135,
+      "minibus": 200,
+      "crafter": 260,
+      "ultralux": 210
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kestel",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Side",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 140,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kepez Döşemealtı",
+    "to": "Türkler",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Adrasan",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Avsallar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Belek",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Çıralı",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kalkan",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kaş",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kemer",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Konaklı",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Kumluca",
+    "prices": {
+      "car": 125,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 240,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Tekirova",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Kestel",
+    "to": "Türkler",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Alanya",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Avsallar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 340,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 290,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kestel",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Konaklı",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 390,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Kızılağaç",
+    "to": "Türkler",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Alanya",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Avsallar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 175,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 340,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 290,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 290,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 150,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kestel",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Konaklı",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 390,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Kızılot",
+    "to": "Türkler",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 70
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 140,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Konaklı",
+    "to": "Türkler",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Alanya",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Avsallar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Belek",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 125,
+      "minibus": 185,
+      "crafter": 245,
+      "ultralux": 195
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kestel",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kızılot",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Konaklı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Side",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Konyaaltı",
+    "to": "Türkler",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Adrasan",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Alanya",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 100,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Avsallar",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 195,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Belek",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 140,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 145,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Çıralı",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 145,
+      "minibus": 180,
+      "crafter": 245,
+      "ultralux": 190
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 165,
+      "minibus": 225,
+      "crafter": 295,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kemer",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kestel",
+    "prices": {
+      "car": 125,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kızılot",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Konaklı",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 125,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 195,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Side",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 175,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Tekirova",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Kumluca",
+    "to": "Türkler",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Alanya",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Avsallar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Belek",
+    "prices": {
+      "car": 35,
+      "minibus": 45,
+      "crafter": 55,
+      "ultralux": 55
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kemer",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 35,
+      "minibus": 50,
+      "crafter": 60,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kestel",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kızılot",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Konaklı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 45,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 20,
+      "minibus": 30,
+      "crafter": 40,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Side",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Lara / Kundu",
+    "to": "Türkler",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Adrasan",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 30,
+      "minibus": 40,
+      "crafter": 50
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Avsallar",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Belek",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Çıralı",
+    "prices": {
+      "car": 120,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 30,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 40,
+      "minibus": 50,
+      "crafter": 60
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 25,
+      "minibus": 35,
+      "crafter": 50,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 160,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kalkan",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kaş",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kemer",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 95,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Konaklı",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Kumluca",
+    "prices": {
+      "car": 125,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 50,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 240,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Tekirova",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Mahmutlar",
+    "to": "Türkler",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Alanya",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Avsallar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 65,
+      "crafter": 100,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 135,
+      "crafter": 185,
+      "ultralux": 145
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 80,
+      "minibus": 90,
+      "crafter": 100
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 275,
+      "crafter": 350,
+      "ultralux": 285
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 75,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 215,
+      "crafter": 300,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 225,
+      "crafter": 300,
+      "ultralux": 235
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 115,
+      "crafter": 170,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kestel",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Konaklı",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 140,
+      "crafter": 195,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 75,
+      "crafter": 110,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 400,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Okurcalar",
+    "to": "Türkler",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Adrasan",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Alanya",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 185,
+      "minibus": 235,
+      "crafter": 305,
+      "ultralux": 245
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Avsallar",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 400,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Belek",
+    "prices": {
+      "car": 205,
+      "minibus": 265,
+      "crafter": 345,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 210,
+      "minibus": 270,
+      "crafter": 350,
+      "ultralux": 280
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Çıralı",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 230,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 260,
+      "minibus": 335,
+      "crafter": 450,
+      "ultralux": 345
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 280,
+      "minibus": 380,
+      "crafter": 500,
+      "ultralux": 390
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kalkan",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kaş",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kemer",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kestel",
+    "prices": {
+      "car": 240,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 390,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kızılot",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 390,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Konaklı",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Kumluca",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 240,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 230,
+      "minibus": 295,
+      "crafter": 400,
+      "ultralux": 305
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Side",
+    "prices": {
+      "car": 225,
+      "minibus": 285,
+      "crafter": 380,
+      "ultralux": 295
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Tekirova",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Pamukkale",
+    "to": "Türkler",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Alanya",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Avsallar",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 150,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Kestel",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Kızılot",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Konaklı",
+    "prices": {
+      "car": 90,
+      "minibus": 110,
+      "crafter": 140,
+      "ultralux": 120
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 160,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Sapadere Kanyonu",
+    "to": "Türkler",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 150,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Adrasan",
+    "prices": {
+      "car": 105,
+      "minibus": 125,
+      "crafter": 165,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Alanya",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Avsallar",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Belek",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Çıralı",
+    "prices": {
+      "car": 105,
+      "minibus": 125,
+      "crafter": 165,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 215,
+      "minibus": 265,
+      "crafter": 330,
+      "ultralux": 275
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 100,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 140,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 145,
+      "minibus": 205,
+      "crafter": 280,
+      "ultralux": 215
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kalkan",
+    "prices": {
+      "car": 165,
+      "minibus": 215,
+      "crafter": 280,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kaş",
+    "prices": {
+      "car": 165,
+      "minibus": 215,
+      "crafter": 280,
+      "ultralux": 225
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kemer",
+    "prices": {
+      "car": 85,
+      "minibus": 105,
+      "crafter": 150,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 80,
+      "minibus": 105,
+      "crafter": 140,
+      "ultralux": 115
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kestel",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Konaklı",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Kumluca",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 175,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 90,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 225,
+      "minibus": 285,
+      "crafter": 380,
+      "ultralux": 295
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Tekirova",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Side",
+    "to": "Türkler",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Adrasan",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Alanya",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 55,
+      "minibus": 65,
+      "crafter": 85,
+      "ultralux": 75
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Avsallar",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Belek",
+    "prices": {
+      "car": 75,
+      "minibus": 95,
+      "crafter": 125,
+      "ultralux": 105
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 80,
+      "minibus": 100,
+      "crafter": 130,
+      "ultralux": 110
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Çıralı",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 85,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 170,
+      "minibus": 210,
+      "crafter": 250,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 130,
+      "minibus": 165,
+      "crafter": 230,
+      "ultralux": 175
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 210,
+      "crafter": 280,
+      "ultralux": 220
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kalkan",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kaş",
+    "prices": {
+      "car": 120,
+      "minibus": 160,
+      "crafter": 200,
+      "ultralux": 170
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kemer",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kestel",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kızılot",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 170,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Konaklı",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Kumluca",
+    "prices": {
+      "car": 65,
+      "minibus": 75,
+      "crafter": 95,
+      "ultralux": 85
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 110,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 100,
+      "minibus": 125,
+      "crafter": 180,
+      "ultralux": 135
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 180,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Side",
+    "prices": {
+      "car": 95,
+      "minibus": 115,
+      "crafter": 160,
+      "ultralux": 125
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Tekirova",
+    "prices": {
+      "car": 50,
+      "minibus": 60,
+      "crafter": 80,
+      "ultralux": 70
+    }
+  },
+  {
+    "from": "Tekirova",
+    "to": "Türkler",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Adrasan",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Alanya",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Alanya Kalesi",
+    "prices": {
+      "car": 60,
+      "minibus": 70,
+      "crafter": 80
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Antalya Center",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Antalya Expo",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Avsallar",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Belek",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Boğazkent",
+    "prices": {
+      "car": 50,
+      "minibus": 70,
+      "crafter": 100,
+      "ultralux": 80
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Çamyuva",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Çıralı",
+    "prices": {
+      "car": 110,
+      "minibus": 140,
+      "crafter": 185,
+      "ultralux": 150
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Demirtaş",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Dim Çayı",
+    "prices": {
+      "car": 50,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Dim Mağarası",
+    "prices": {
+      "car": 70,
+      "minibus": 80,
+      "crafter": 90
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Fethiye, Muğla",
+    "prices": {
+      "car": 220,
+      "minibus": 280,
+      "crafter": 350,
+      "ultralux": 290
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Gazipaşa Center",
+    "prices": {
+      "car": 50,
+      "minibus": 55,
+      "crafter": 75,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Geyikbayırı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Isparta Airport",
+    "prices": {
+      "car": 150,
+      "minibus": 220,
+      "crafter": 300,
+      "ultralux": 230
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kalkan",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kaş",
+    "prices": {
+      "car": 170,
+      "minibus": 230,
+      "crafter": 300,
+      "ultralux": 240
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kemer",
+    "prices": {
+      "car": 90,
+      "minibus": 120,
+      "crafter": 170,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kepez Döşemealtı",
+    "prices": {
+      "car": 85,
+      "minibus": 120,
+      "crafter": 160,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kestel",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kızılağaç",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kızılot",
+    "prices": {
+      "car": 45,
+      "minibus": 50,
+      "crafter": 70,
+      "ultralux": 60
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Konaklı",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Konyaaltı",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Kumluca",
+    "prices": {
+      "car": 115,
+      "minibus": 145,
+      "crafter": 195,
+      "ultralux": 155
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Lara / Kundu",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 110,
+      "ultralux": 90
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Mahmutlar",
+    "prices": {
+      "car": 30,
+      "minibus": 35,
+      "crafter": 60,
+      "ultralux": 45
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Okurcalar",
+    "prices": {
+      "car": 35,
+      "minibus": 40,
+      "crafter": 60,
+      "ultralux": 50
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Pamukkale",
+    "prices": {
+      "car": 230,
+      "minibus": 300,
+      "crafter": 400,
+      "ultralux": 310
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Sapadere Kanyonu",
+    "prices": {
+      "car": 100,
+      "minibus": 120,
+      "crafter": 150,
+      "ultralux": 130
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Side",
+    "prices": {
+      "car": 45,
+      "minibus": 55,
+      "crafter": 80,
+      "ultralux": 65
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Tekirova",
+    "prices": {
+      "car": 100,
+      "minibus": 130,
+      "crafter": 180,
+      "ultralux": 140
+    }
+  },
+  {
+    "from": "Türkler",
+    "to": "Türkler",
+    "prices": {
+      "car": 25,
+      "minibus": 30,
+      "crafter": 60,
+      "ultralux": 40
+    }
+  },
+  {
+    "from": "Üzümlü, Alanya/Antalya",
+    "to": "Antalya Airport",
+    "prices": {
+      "car": 100,
+      "minibus": 150,
+      "crafter": 200,
+      "ultralux": 160
+    }
+  },
+  {
+    "from": "Üzümlü, Alanya/Antalya",
+    "to": "Gazipasa Airport",
+    "prices": {
+      "car": 60,
+      "minibus": 80,
+      "crafter": 15,
+      "ultralux": 90
+    }
+  }
 ]

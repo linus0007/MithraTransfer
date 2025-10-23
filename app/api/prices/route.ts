@@ -33,13 +33,22 @@ export async function GET(request: Request) {
     );
   });
 
-  const payload = filtered.map((record) => ({
-    region: record.from,
-    destination: record.to,
-    vehicle,
-    basePrice: record.prices[vehicle],
-    passengers: passengerLabels[vehicle]
-  }));
+  const payload = filtered
+    .map((record) => {
+      const basePrice = record.prices[vehicle];
+      if (typeof basePrice !== 'number') {
+        return null;
+      }
+
+      return {
+        region: record.from,
+        destination: record.to,
+        vehicle,
+        basePrice,
+        passengers: passengerLabels[vehicle]
+      };
+    })
+    .filter((entry): entry is Exclude<typeof entry, null> => entry !== null);
 
   return NextResponse.json({ data: payload });
 }
