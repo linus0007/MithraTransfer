@@ -1,0 +1,9154 @@
+[
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Alanya",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Antalya Center",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Antalya Expo",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Belek",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Boğazkent",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Demirtaş",
+    "passenger_car": 75,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Isparta Airport",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kestel",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Konyaaltı",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Lara / Kundu",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Mahmutlar",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Airport",
+    "destination": "Üzümlü, Alanya/Antalya",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Alanya",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Antalya Airport",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Antalya Expo",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 90,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Avsallar",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Belek",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 130,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Boğazkent",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 135,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Çamyuva",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Demirtaş",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Geyikbayırı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Isparta Airport",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 285,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kemer",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kestel",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kızılağaç",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kızılot",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Konaklı",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Mahmutlar",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Okurcalar",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Side",
+    "passenger_car": 105,
+    "minibus": 125,
+    "crafter": 165,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Tekirova",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Adrasan",
+    "destination": "Türkler",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Avsallar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Demirtaş",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Dim Çayı",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Dim Mağarası",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Konaklı",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Alanya",
+    "destination": "Türkler",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Alanya",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Avsallar",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Kestel",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Kızılağaç",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Kızılot",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Konaklı",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Mahmutlar",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Okurcalar",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Alanya Kalesi",
+    "destination": "Türkler",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Alanya",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Antalya Airport",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Antalya Center",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Antalya Expo",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Avsallar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Belek",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Boğazkent",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Demirtaş",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Isparta Airport",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kestel",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kızılağaç",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kızılot",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Konaklı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Konyaaltı",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Lara / Kundu",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Mahmutlar",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Okurcalar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Side",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Antalya Center",
+    "destination": "Türkler",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Adrasan",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 90,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Alanya",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Antalya Airport",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Antalya Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Belek",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Boğazkent",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Çamyuva",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 85,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Çıralı",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 90,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Geyikbayırı",
+    "passenger_car": 40,
+    "minibus": 55,
+    "crafter": 65,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Isparta Airport",
+    "passenger_car": 105,
+    "minibus": 155,
+    "crafter": 205,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kalkan",
+    "passenger_car": 125,
+    "minibus": 165,
+    "crafter": 205,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kaş",
+    "passenger_car": 125,
+    "minibus": 165,
+    "crafter": 205,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kemer",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kestel",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Konyaaltı",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Kumluca",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 100,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Lara / Kundu",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Mahmutlar",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Pamukkale",
+    "passenger_car": 185,
+    "minibus": 235,
+    "crafter": 305,
+    "ultra_lux": 245
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Tekirova",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 85,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Antalya Expo",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Avsallar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Dim Mağarası",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 350,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 300,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 170,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Konaklı",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 195,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Mahmutlar",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 400,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 150,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Avsallar",
+    "destination": "Türkler",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Adrasan",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 130,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Alanya",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Antalya Airport",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Antalya Center",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Antalya Expo",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Belek",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Boğazkent",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Çamyuva",
+    "passenger_car": 75,
+    "minibus": 95,
+    "crafter": 125,
+    "ultra_lux": 105
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Çıralı",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 130,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Demirtaş",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 195,
+    "minibus": 245,
+    "crafter": 295,
+    "ultra_lux": 255
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Geyikbayırı",
+    "passenger_car": 60,
+    "minibus": 85,
+    "crafter": 105,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Isparta Airport",
+    "passenger_car": 125,
+    "minibus": 185,
+    "crafter": 245,
+    "ultra_lux": 195
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kalkan",
+    "passenger_car": 145,
+    "minibus": 195,
+    "crafter": 245,
+    "ultra_lux": 205
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kaş",
+    "passenger_car": 145,
+    "minibus": 195,
+    "crafter": 245,
+    "ultra_lux": 205
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kemer",
+    "passenger_car": 65,
+    "minibus": 85,
+    "crafter": 115,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 60,
+    "minibus": 85,
+    "crafter": 105,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kestel",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Konyaaltı",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Kumluca",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 140,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Lara / Kundu",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Mahmutlar",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Pamukkale",
+    "passenger_car": 205,
+    "minibus": 265,
+    "crafter": 345,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Tekirova",
+    "passenger_car": 75,
+    "minibus": 95,
+    "crafter": 125,
+    "ultra_lux": 105
+  },
+  {
+    "pickup": "Belek",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Adrasan",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 135,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Alanya",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Antalya Airport",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Antalya Center",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Antalya Expo",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Belek",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Boğazkent",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Çamyuva",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Çıralı",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 135,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Demirtaş",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 200,
+    "minibus": 250,
+    "crafter": 300,
+    "ultra_lux": 260
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Geyikbayırı",
+    "passenger_car": 65,
+    "minibus": 90,
+    "crafter": 110,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Isparta Airport",
+    "passenger_car": 130,
+    "minibus": 190,
+    "crafter": 250,
+    "ultra_lux": 200
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kalkan",
+    "passenger_car": 150,
+    "minibus": 200,
+    "crafter": 250,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kaş",
+    "passenger_car": 150,
+    "minibus": 200,
+    "crafter": 250,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kemer",
+    "passenger_car": 70,
+    "minibus": 90,
+    "crafter": 120,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 65,
+    "minibus": 90,
+    "crafter": 110,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kestel",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Konyaaltı",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Kumluca",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 145,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Lara / Kundu",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Mahmutlar",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Pamukkale",
+    "passenger_car": 210,
+    "minibus": 270,
+    "crafter": 350,
+    "ultra_lux": 280
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Tekirova",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Boğazkent",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Alanya",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Antalya Center",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Antalya Expo",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 85,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Avsallar",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Belek",
+    "passenger_car": 75,
+    "minibus": 95,
+    "crafter": 125,
+    "ultra_lux": 105
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Boğazkent",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Demirtaş",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Geyikbayırı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 210,
+    "crafter": 280,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kemer",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kestel",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kızılağaç",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kızılot",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Konaklı",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Konyaaltı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Lara / Kundu",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Mahmutlar",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Okurcalar",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Side",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Çamyuva",
+    "destination": "Türkler",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Alanya",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Antalya Airport",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Antalya Expo",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 90,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Avsallar",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Belek",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 130,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Boğazkent",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 135,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Çamyuva",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Demirtaş",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Geyikbayırı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Isparta Airport",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 285,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kemer",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kestel",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kızılağaç",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kızılot",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Konaklı",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Mahmutlar",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Okurcalar",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Side",
+    "passenger_car": 105,
+    "minibus": 125,
+    "crafter": 165,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Tekirova",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Çıralı",
+    "destination": "Türkler",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Adrasan",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Alanya",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Antalya Airport",
+    "passenger_car": 75,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Antalya Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Belek",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Boğazkent",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Çamyuva",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Çıralı",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Isparta Airport",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kalkan",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kaş",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kemer",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kestel",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Konyaaltı",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Kumluca",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Lara / Kundu",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Pamukkale",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Side",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Tekirova",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Demirtaş",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Alanya",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Kestel",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Mahmutlar",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Dim Çayı",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Alanya",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Avsallar",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Kestel",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Kızılağaç",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Kızılot",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 70,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Mahmutlar",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Okurcalar",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Dim Mağarası",
+    "destination": "Türkler",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Adrasan",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Alanya",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Antalya Airport",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Antalya Center",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Avsallar",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 350,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Belek",
+    "passenger_car": 195,
+    "minibus": 245,
+    "crafter": 295,
+    "ultra_lux": 255
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Boğazkent",
+    "passenger_car": 200,
+    "minibus": 250,
+    "crafter": 300,
+    "ultra_lux": 260
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Çamyuva",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Çıralı",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 250,
+    "minibus": 315,
+    "crafter": 400,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 250,
+    "minibus": 315,
+    "crafter": 400,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Geyikbayırı",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Isparta Airport",
+    "passenger_car": 270,
+    "minibus": 360,
+    "crafter": 450,
+    "ultra_lux": 370
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kemer",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kestel",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kızılağaç",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 340,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kızılot",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 340,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Konaklı",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Konyaaltı",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Kumluca",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Lara / Kundu",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Mahmutlar",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Okurcalar",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 350,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Side",
+    "passenger_car": 215,
+    "minibus": 265,
+    "crafter": 330,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Tekirova",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Fethiye, Muğla",
+    "destination": "Türkler",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Adrasan",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Alanya",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Antalya Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Antalya Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Antalya Expo",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Belek",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Boğazkent",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Çamyuva",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Çıralı",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Demirtaş",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 250,
+    "minibus": 315,
+    "crafter": 400,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Geyikbayırı",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Isparta Airport",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kalkan",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kaş",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kemer",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kestel",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Konyaaltı",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Kumluca",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Lara / Kundu",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Pamukkale",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Side",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Tekirova",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Gazipasa Airport",
+    "destination": "Üzümlü, Alanya/Antalya",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 150,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Adrasan",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Alanya",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Antalya Airport",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Antalya Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Antalya Expo",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Avsallar",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Belek",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Boğazkent",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Çamyuva",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Çıralı",
+    "passenger_car": 140,
+    "minibus": 175,
+    "crafter": 235,
+    "ultra_lux": 185
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Demirtaş",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 250,
+    "minibus": 315,
+    "crafter": 400,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Geyikbayırı",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Isparta Airport",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kalkan",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kaş",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kemer",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kestel",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kızılağaç",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kızılot",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Konaklı",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Konyaaltı",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Kumluca",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Lara / Kundu",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Okurcalar",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Pamukkale",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Side",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Tekirova",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Gazipaşa Center",
+    "destination": "Türkler",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Alanya",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Antalya Airport",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Antalya Center",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Antalya Expo",
+    "passenger_car": 40,
+    "minibus": 55,
+    "crafter": 65,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Avsallar",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Belek",
+    "passenger_car": 60,
+    "minibus": 85,
+    "crafter": 105,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Boğazkent",
+    "passenger_car": 65,
+    "minibus": 90,
+    "crafter": 110,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Isparta Airport",
+    "passenger_car": 135,
+    "minibus": 200,
+    "crafter": 260,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kestel",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kızılağaç",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kızılot",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Konaklı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Konyaaltı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Lara / Kundu",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Mahmutlar",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Okurcalar",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Side",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 140,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Geyikbayırı",
+    "destination": "Türkler",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Adrasan",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 285,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Alanya",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Antalya Airport",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Antalya Center",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Antalya Expo",
+    "passenger_car": 105,
+    "minibus": 155,
+    "crafter": 205,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Avsallar",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 300,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Belek",
+    "passenger_car": 125,
+    "minibus": 185,
+    "crafter": 245,
+    "ultra_lux": 195
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Boğazkent",
+    "passenger_car": 130,
+    "minibus": 190,
+    "crafter": 250,
+    "ultra_lux": 200
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Çamyuva",
+    "passenger_car": 150,
+    "minibus": 210,
+    "crafter": 280,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Çıralı",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 285,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Demirtaş",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 270,
+    "minibus": 360,
+    "crafter": 450,
+    "ultra_lux": 370
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 180,
+    "minibus": 255,
+    "crafter": 350,
+    "ultra_lux": 265
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Geyikbayırı",
+    "passenger_car": 135,
+    "minibus": 200,
+    "crafter": 260,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kalkan",
+    "passenger_car": 220,
+    "minibus": 310,
+    "crafter": 400,
+    "ultra_lux": 320
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kaş",
+    "passenger_car": 220,
+    "minibus": 310,
+    "crafter": 400,
+    "ultra_lux": 320
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kemer",
+    "passenger_car": 140,
+    "minibus": 200,
+    "crafter": 270,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 135,
+    "minibus": 200,
+    "crafter": 260,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kestel",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kızılağaç",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 290,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kızılot",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 290,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Konaklı",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Konyaaltı",
+    "passenger_car": 125,
+    "minibus": 185,
+    "crafter": 245,
+    "ultra_lux": 195
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Kumluca",
+    "passenger_car": 165,
+    "minibus": 225,
+    "crafter": 295,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Lara / Kundu",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Mahmutlar",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Okurcalar",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 300,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Pamukkale",
+    "passenger_car": 280,
+    "minibus": 380,
+    "crafter": 500,
+    "ultra_lux": 390
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Side",
+    "passenger_car": 145,
+    "minibus": 205,
+    "crafter": 280,
+    "ultra_lux": 215
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Tekirova",
+    "passenger_car": 150,
+    "minibus": 210,
+    "crafter": 280,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Isparta Airport",
+    "destination": "Türkler",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Adrasan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Alanya",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Antalya Airport",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Antalya Center",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Antalya Expo",
+    "passenger_car": 125,
+    "minibus": 165,
+    "crafter": 205,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Avsallar",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Belek",
+    "passenger_car": 145,
+    "minibus": 195,
+    "crafter": 245,
+    "ultra_lux": 205
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Boğazkent",
+    "passenger_car": 150,
+    "minibus": 200,
+    "crafter": 250,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Çamyuva",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Çıralı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Demirtaş",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Geyikbayırı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Isparta Airport",
+    "passenger_car": 220,
+    "minibus": 310,
+    "crafter": 400,
+    "ultra_lux": 320
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kemer",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kestel",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kızılağaç",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kızılot",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Konaklı",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Konyaaltı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Kumluca",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Lara / Kundu",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Mahmutlar",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Okurcalar",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Side",
+    "passenger_car": 165,
+    "minibus": 215,
+    "crafter": 280,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Tekirova",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kalkan",
+    "destination": "Türkler",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Adrasan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Alanya",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Antalya Airport",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Antalya Center",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Antalya Expo",
+    "passenger_car": 125,
+    "minibus": 165,
+    "crafter": 205,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Avsallar",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Belek",
+    "passenger_car": 145,
+    "minibus": 195,
+    "crafter": 245,
+    "ultra_lux": 205
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Boğazkent",
+    "passenger_car": 150,
+    "minibus": 200,
+    "crafter": 250,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Çamyuva",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Çıralı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Demirtaş",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 200,
+    "minibus": 265,
+    "crafter": 350,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Geyikbayırı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Isparta Airport",
+    "passenger_car": 220,
+    "minibus": 310,
+    "crafter": 400,
+    "ultra_lux": 320
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kemer",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kestel",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kızılağaç",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kızılot",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Konaklı",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Konyaaltı",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Kumluca",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Lara / Kundu",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Mahmutlar",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Okurcalar",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Side",
+    "passenger_car": 165,
+    "minibus": 215,
+    "crafter": 280,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Tekirova",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kaş",
+    "destination": "Türkler",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Alanya",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Antalya Airport",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Antalya Center",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Antalya Expo",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Avsallar",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 170,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Belek",
+    "passenger_car": 65,
+    "minibus": 85,
+    "crafter": 115,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Boğazkent",
+    "passenger_car": 70,
+    "minibus": 90,
+    "crafter": 120,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Demirtaş",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 120,
+    "minibus": 155,
+    "crafter": 220,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Geyikbayırı",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Isparta Airport",
+    "passenger_car": 140,
+    "minibus": 200,
+    "crafter": 270,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kestel",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kızılağaç",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kızılot",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Konaklı",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Konyaaltı",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Lara / Kundu",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Mahmutlar",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Okurcalar",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 170,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Side",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kemer",
+    "destination": "Türkler",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Alanya",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Antalya Airport",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Antalya Center",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Avsallar",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Belek",
+    "passenger_car": 60,
+    "minibus": 85,
+    "crafter": 105,
+    "ultra_lux": 95
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Boğazkent",
+    "passenger_car": 65,
+    "minibus": 90,
+    "crafter": 110,
+    "ultra_lux": 100
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 115,
+    "minibus": 155,
+    "crafter": 210,
+    "ultra_lux": 165
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Isparta Airport",
+    "passenger_car": 135,
+    "minibus": 200,
+    "crafter": 260,
+    "ultra_lux": 210
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kestel",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kızılağaç",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kızılot",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Konaklı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Konyaaltı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Lara / Kundu",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Mahmutlar",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Okurcalar",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Side",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 140,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kepez Döşemealtı",
+    "destination": "Türkler",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Adrasan",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Antalya Airport",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Antalya Center",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Antalya Expo",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Avsallar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Belek",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Boğazkent",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Çamyuva",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Çıralı",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Demirtaş",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Dim Çayı",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Dim Mağarası",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Geyikbayırı",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Isparta Airport",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kalkan",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kaş",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kemer",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Konaklı",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Konyaaltı",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Kumluca",
+    "passenger_car": 125,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Lara / Kundu",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Pamukkale",
+    "passenger_car": 240,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Tekirova",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Kestel",
+    "destination": "Türkler",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Alanya",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Avsallar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Dim Mağarası",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 340,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 290,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kestel",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Konaklı",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Mahmutlar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Okurcalar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 390,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Kızılağaç",
+    "destination": "Türkler",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Alanya",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Avsallar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 175,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Dim Mağarası",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 340,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 290,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 290,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 150,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kestel",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Konaklı",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Mahmutlar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Okurcalar",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 390,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Kızılot",
+    "destination": "Türkler",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Avsallar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Dim Mağarası",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 70,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Konaklı",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Mahmutlar",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 140,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Konaklı",
+    "destination": "Türkler",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Alanya",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Antalya Airport",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Antalya Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Antalya Expo",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Avsallar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Belek",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Boğazkent",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Demirtaş",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Isparta Airport",
+    "passenger_car": 125,
+    "minibus": 185,
+    "crafter": 245,
+    "ultra_lux": 195
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kestel",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kızılağaç",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kızılot",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Konaklı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Konyaaltı",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Lara / Kundu",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Mahmutlar",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Okurcalar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Side",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Konyaaltı",
+    "destination": "Türkler",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Adrasan",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Alanya",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Antalya Airport",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Antalya Center",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Antalya Expo",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 100,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Avsallar",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 195,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Belek",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 140,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Boğazkent",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 145,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Çamyuva",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Çıralı",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Demirtaş",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 145,
+    "minibus": 180,
+    "crafter": 245,
+    "ultra_lux": 190
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Geyikbayırı",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Isparta Airport",
+    "passenger_car": 165,
+    "minibus": 225,
+    "crafter": 295,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kemer",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kestel",
+    "passenger_car": 125,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kızılağaç",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kızılot",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Konaklı",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Konyaaltı",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Lara / Kundu",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Mahmutlar",
+    "passenger_car": 125,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Okurcalar",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 195,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Side",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 175,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Tekirova",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Kumluca",
+    "destination": "Türkler",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Alanya",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Antalya Airport",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Antalya Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Antalya Expo",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Avsallar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Belek",
+    "passenger_car": 35,
+    "minibus": 45,
+    "crafter": 55,
+    "ultra_lux": 55
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Boğazkent",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Demirtaş",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Geyikbayırı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Isparta Airport",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kemer",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 35,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kestel",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kızılağaç",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kızılot",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Konaklı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Konyaaltı",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 45,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Lara / Kundu",
+    "passenger_car": 20,
+    "minibus": 30,
+    "crafter": 40,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Mahmutlar",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Okurcalar",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Side",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Lara / Kundu",
+    "destination": "Türkler",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Adrasan",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 30,
+    "minibus": 40,
+    "crafter": 50,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Antalya Airport",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Antalya Center",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Antalya Expo",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Avsallar",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Belek",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Boğazkent",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Çamyuva",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Çıralı",
+    "passenger_car": 120,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Demirtaş",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Dim Çayı",
+    "passenger_car": 30,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Dim Mağarası",
+    "passenger_car": 40,
+    "minibus": 50,
+    "crafter": 60,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 25,
+    "minibus": 35,
+    "crafter": 50,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Geyikbayırı",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Isparta Airport",
+    "passenger_car": 160,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kalkan",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kaş",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kemer",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 95,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Konaklı",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Konyaaltı",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Kumluca",
+    "passenger_car": 125,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Lara / Kundu",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Mahmutlar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 50,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Pamukkale",
+    "passenger_car": 240,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Tekirova",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Mahmutlar",
+    "destination": "Türkler",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Alanya",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Avsallar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 65,
+    "crafter": 100,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 135,
+    "crafter": 185,
+    "ultra_lux": 145
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Dim Mağarası",
+    "passenger_car": 80,
+    "minibus": 90,
+    "crafter": 100,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 275,
+    "crafter": 350,
+    "ultra_lux": 285
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 75,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 215,
+    "crafter": 300,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 225,
+    "crafter": 300,
+    "ultra_lux": 235
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 115,
+    "crafter": 170,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kestel",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Konaklı",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 140,
+    "crafter": 195,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 75,
+    "crafter": 110,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Mahmutlar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 400,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Okurcalar",
+    "destination": "Türkler",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Adrasan",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Alanya",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Antalya Airport",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Antalya Center",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Antalya Expo",
+    "passenger_car": 185,
+    "minibus": 235,
+    "crafter": 305,
+    "ultra_lux": 245
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Avsallar",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 400,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Belek",
+    "passenger_car": 205,
+    "minibus": 265,
+    "crafter": 345,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Boğazkent",
+    "passenger_car": 210,
+    "minibus": 270,
+    "crafter": 350,
+    "ultra_lux": 280
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Çamyuva",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Çıralı",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Demirtaş",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 230,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 260,
+    "minibus": 335,
+    "crafter": 450,
+    "ultra_lux": 345
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Geyikbayırı",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Isparta Airport",
+    "passenger_car": 280,
+    "minibus": 380,
+    "crafter": 500,
+    "ultra_lux": 390
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kalkan",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kaş",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kemer",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kestel",
+    "passenger_car": 240,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kızılağaç",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 390,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kızılot",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 390,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Konaklı",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Konyaaltı",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Kumluca",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Lara / Kundu",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Mahmutlar",
+    "passenger_car": 240,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Okurcalar",
+    "passenger_car": 230,
+    "minibus": 295,
+    "crafter": 400,
+    "ultra_lux": 305
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Side",
+    "passenger_car": 225,
+    "minibus": 285,
+    "crafter": 380,
+    "ultra_lux": 295
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Tekirova",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Pamukkale",
+    "destination": "Türkler",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Alanya",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Avsallar",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 150,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Kestel",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Kızılağaç",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Kızılot",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Konaklı",
+    "passenger_car": 90,
+    "minibus": 110,
+    "crafter": 140,
+    "ultra_lux": 120
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Mahmutlar",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Okurcalar",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 160,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Sapadere Kanyonu",
+    "destination": "Türkler",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 150,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Side",
+    "destination": "Adrasan",
+    "passenger_car": 105,
+    "minibus": 125,
+    "crafter": 165,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Side",
+    "destination": "Alanya",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Antalya Airport",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Antalya Center",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Side",
+    "destination": "Antalya Expo",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Avsallar",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Belek",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Boğazkent",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Çamyuva",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Side",
+    "destination": "Çıralı",
+    "passenger_car": 105,
+    "minibus": 125,
+    "crafter": 165,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Side",
+    "destination": "Demirtaş",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Side",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 215,
+    "minibus": 265,
+    "crafter": 330,
+    "ultra_lux": 275
+  },
+  {
+    "pickup": "Side",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Side",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 100,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Side",
+    "destination": "Geyikbayırı",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 140,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Side",
+    "destination": "Isparta Airport",
+    "passenger_car": 145,
+    "minibus": 205,
+    "crafter": 280,
+    "ultra_lux": 215
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kalkan",
+    "passenger_car": 165,
+    "minibus": 215,
+    "crafter": 280,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kaş",
+    "passenger_car": 165,
+    "minibus": 215,
+    "crafter": 280,
+    "ultra_lux": 225
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kemer",
+    "passenger_car": 85,
+    "minibus": 105,
+    "crafter": 150,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 80,
+    "minibus": 105,
+    "crafter": 140,
+    "ultra_lux": 115
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kestel",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Konaklı",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Konyaaltı",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Side",
+    "destination": "Kumluca",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 175,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Side",
+    "destination": "Lara / Kundu",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 90,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Side",
+    "destination": "Mahmutlar",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Okurcalar",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Pamukkale",
+    "passenger_car": 225,
+    "minibus": 285,
+    "crafter": 380,
+    "ultra_lux": 295
+  },
+  {
+    "pickup": "Side",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Side",
+    "destination": "Tekirova",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Side",
+    "destination": "Türkler",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Adrasan",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Alanya",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Antalya Center",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Antalya Expo",
+    "passenger_car": 55,
+    "minibus": 65,
+    "crafter": 85,
+    "ultra_lux": 75
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Avsallar",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Belek",
+    "passenger_car": 75,
+    "minibus": 95,
+    "crafter": 125,
+    "ultra_lux": 105
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Boğazkent",
+    "passenger_car": 80,
+    "minibus": 100,
+    "crafter": 130,
+    "ultra_lux": 110
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Çamyuva",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Çıralı",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 85,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Demirtaş",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 170,
+    "minibus": 210,
+    "crafter": 250,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 130,
+    "minibus": 165,
+    "crafter": 230,
+    "ultra_lux": 175
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Geyikbayırı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 210,
+    "crafter": 280,
+    "ultra_lux": 220
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kalkan",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kaş",
+    "passenger_car": 120,
+    "minibus": 160,
+    "crafter": 200,
+    "ultra_lux": 170
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kemer",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kestel",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kızılağaç",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kızılot",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 170,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Konaklı",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Konyaaltı",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Kumluca",
+    "passenger_car": 65,
+    "minibus": 75,
+    "crafter": 95,
+    "ultra_lux": 85
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Lara / Kundu",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Mahmutlar",
+    "passenger_car": 110,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Okurcalar",
+    "passenger_car": 100,
+    "minibus": 125,
+    "crafter": 180,
+    "ultra_lux": 135
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Pamukkale",
+    "passenger_car": 180,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Side",
+    "passenger_car": 95,
+    "minibus": 115,
+    "crafter": 160,
+    "ultra_lux": 125
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Tekirova",
+    "passenger_car": 50,
+    "minibus": 60,
+    "crafter": 80,
+    "ultra_lux": 70
+  },
+  {
+    "pickup": "Tekirova",
+    "destination": "Türkler",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Adrasan",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Alanya",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Alanya Kalesi",
+    "passenger_car": 60,
+    "minibus": 70,
+    "crafter": 80,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Antalya Airport",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Antalya Center",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Antalya Expo",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Avsallar",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Belek",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Boğazkent",
+    "passenger_car": 50,
+    "minibus": 70,
+    "crafter": 100,
+    "ultra_lux": 80
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Çamyuva",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Çıralı",
+    "passenger_car": 110,
+    "minibus": 140,
+    "crafter": 185,
+    "ultra_lux": 150
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Demirtaş",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Dim Çayı",
+    "passenger_car": 50,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Dim Mağarası",
+    "passenger_car": 70,
+    "minibus": 80,
+    "crafter": 90,
+    "ultra_lux": null
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Fethiye, Muğla",
+    "passenger_car": 220,
+    "minibus": 280,
+    "crafter": 350,
+    "ultra_lux": 290
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Gazipaşa Center",
+    "passenger_car": 50,
+    "minibus": 55,
+    "crafter": 75,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Geyikbayırı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Isparta Airport",
+    "passenger_car": 150,
+    "minibus": 220,
+    "crafter": 300,
+    "ultra_lux": 230
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kalkan",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kaş",
+    "passenger_car": 170,
+    "minibus": 230,
+    "crafter": 300,
+    "ultra_lux": 240
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kemer",
+    "passenger_car": 90,
+    "minibus": 120,
+    "crafter": 170,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kepez Döşemealtı",
+    "passenger_car": 85,
+    "minibus": 120,
+    "crafter": 160,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kestel",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kızılağaç",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kızılot",
+    "passenger_car": 45,
+    "minibus": 50,
+    "crafter": 70,
+    "ultra_lux": 60
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Konaklı",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Konyaaltı",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Kumluca",
+    "passenger_car": 115,
+    "minibus": 145,
+    "crafter": 195,
+    "ultra_lux": 155
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Lara / Kundu",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 110,
+    "ultra_lux": 90
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Mahmutlar",
+    "passenger_car": 30,
+    "minibus": 35,
+    "crafter": 60,
+    "ultra_lux": 45
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Okurcalar",
+    "passenger_car": 35,
+    "minibus": 40,
+    "crafter": 60,
+    "ultra_lux": 50
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Pamukkale",
+    "passenger_car": 230,
+    "minibus": 300,
+    "crafter": 400,
+    "ultra_lux": 310
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Sapadere Kanyonu",
+    "passenger_car": 100,
+    "minibus": 120,
+    "crafter": 150,
+    "ultra_lux": 130
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Side",
+    "passenger_car": 45,
+    "minibus": 55,
+    "crafter": 80,
+    "ultra_lux": 65
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Tekirova",
+    "passenger_car": 100,
+    "minibus": 130,
+    "crafter": 180,
+    "ultra_lux": 140
+  },
+  {
+    "pickup": "Türkler",
+    "destination": "Türkler",
+    "passenger_car": 25,
+    "minibus": 30,
+    "crafter": 60,
+    "ultra_lux": 40
+  },
+  {
+    "pickup": "Üzümlü, Alanya/Antalya",
+    "destination": "Antalya Airport",
+    "passenger_car": 100,
+    "minibus": 150,
+    "crafter": 200,
+    "ultra_lux": 160
+  },
+  {
+    "pickup": "Üzümlü, Alanya/Antalya",
+    "destination": "Gazipasa Airport",
+    "passenger_car": 60,
+    "minibus": 80,
+    "crafter": 150,
+    "ultra_lux": 90
+  }
+]
