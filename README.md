@@ -23,6 +23,7 @@ npm run dev
 - Responsive design with sticky pricing table header and mobile-friendly layout.
 - 1,100+ Antalya routes captured in the pricing dataset with automatic filtering for each vehicle tier.
 - Comprehensive marketing pages (About, Services, Fleet, Destinations, Blog, FAQ, Contact, Privacy, Terms) mirroring the full Mithra Travel website experience.
+- TypeScript tooling relies on the React 18 built-in type definitions, so no additional `@types/react` packages are required.
 
 ## Project Structure
 
