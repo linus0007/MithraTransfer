@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect, type ReactNode } from 'react';
-import { I18nextProvider } from 'react-i18next';
 import i18n, { languageOptions } from '@/lib/i18n';
 import { useAppStore, type CurrencyCode } from '@/lib/store';
 
@@ -21,7 +20,7 @@ export default function Providers({ children }: { children: ReactNode }) {
       const option = languageOptions.find((item) => item.code === savedLang);
       if (option) {
         setLanguage(option.code, { direction: option.direction });
-        i18n.changeLanguage(option.code);
+        i18n.changeLanguage(option.code).catch(() => undefined);
       }
     }
 
@@ -51,5 +50,5 @@ export default function Providers({ children }: { children: ReactNode }) {
     return () => controller.abort();
   }, [setRates]);
 
-  return <I18nextProvider i18n={i18n}>{children}</I18nextProvider>;
+  return <>{children}</>;
 }

@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@/lib/i18n-client';
 import VehicleTabs from '@/app/components/VehicleTabs';
 import { useAppStore } from '@/lib/store';
 

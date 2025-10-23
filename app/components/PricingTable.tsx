@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@/lib/i18n-client';
 import { useAppStore, type VehicleType } from '@/lib/store';
 import { slugify } from '@/lib/slug';
 

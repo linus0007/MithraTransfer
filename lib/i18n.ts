@@ -1,9 +1,8 @@
-'use client';
-
 import i18next, { type Resource } from 'i18next';
-import { initReactI18next } from 'react-i18next';
 
-export const languageOptions: Array<{ code: string; label: string; direction?: 'ltr' | 'rtl' }> = [
+type LanguageDirection = 'ltr' | 'rtl';
+
+export const languageOptions: Array<{ code: string; label: string; direction?: LanguageDirection }> = [
   { code: 'en', label: 'English' },
   { code: 'tr', label: 'Türkçe' },
   { code: 'ru', label: 'Русский' },
@@ -199,7 +198,7 @@ const resources: Resource = {
 };
 
 if (!i18next.isInitialized) {
-  i18next.use(initReactI18next).init({
+  void i18next.init({
     resources,
     lng: 'en',
     fallbackLng: 'en',

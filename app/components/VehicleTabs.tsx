@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import clsx from 'clsx';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@/lib/i18n-client';
 import { useAppStore, type VehicleType } from '@/lib/store';
 
 const vehicles: VehicleType[] = ['car', 'minibus', 'crafter', 'ultralux'];
