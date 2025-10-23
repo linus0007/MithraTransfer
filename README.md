@@ -49,4 +49,17 @@ types/          # Shared TypeScript types
 
 ## Deployment
 
-The project is optimised for Vercel deployment. Set up your project, link this repository, and run `npm run build`.
+Vercel will now respect the `.npmrc` in the repository and install dependencies with `--legacy-peer-deps`, which resolves the React/Next canary peer requirement. Follow these exact steps to deploy successfully:
+
+1. **Push the latest code** to GitHub (including this README and the `.npmrc` file).
+2. **In your Vercel dashboard**, select the Mithra Transfer project and click **Deploy** (or re-run the most recent deployment).
+3. Vercel automatically runs `npm install` (using the `.npmrc` setting) followed by `npm run build`.
+4. Once the build completes, Vercel promotes the deployment and serves it on your configured domain.
+
+If you prefer to trigger the deployment from the command line:
+
+```bash
+vercel --prod
+```
+
+> Tip: Should you need to bypass the cache, choose **Deploy without cache** in the Vercel UI so the new dependency resolution runs fresh.
