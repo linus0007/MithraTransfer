@@ -1,8 +1,10 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useAppStore, type VehicleType } from '@/lib/store';
+import { slugify } from '@/lib/slug';
 
 interface ApiRow {
   destination: string;
@@ -77,7 +79,7 @@ export default function PricingTable() {
             {loading ? (
               <tr>
                 <td colSpan={3} className="px-4 py-6 text-center text-sm text-slate-500">
-                  {t('table.loading', { defaultValue: 'Loading pricing…' })}
+                  {t('table.loading')}
                 </td>
               </tr>
             ) : convertedRows.length === 0 ? (
@@ -89,7 +91,14 @@ export default function PricingTable() {
             ) : (
               convertedRows.map((row) => (
                 <tr key={`${row.destination}-${row.vehicle}`} className="border-b border-slate-100 last:border-0">
-                  <td className="font-medium text-slate-900">{row.destination}</td>
+                  <td className="font-medium text-slate-900">
+                    <Link
+                      href={`/book/${slugify(row.region)}/${slugify(row.destination)}`}
+                      className="hover:text-brand-500"
+                    >
+                      {row.destination}
+                    </Link>
+                  </td>
                   <td className="text-slate-600">
                     {t(`vehicles.${row.vehicle}` as const)} <span className="text-xs text-slate-400">({row.passengers})</span>
                   </td>

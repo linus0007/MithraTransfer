@@ -1,17 +1,11 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getRegions, getPricingByRegion } from '@/lib/pricing';
+import { slugify } from '@/lib/slug';
 
 interface BookingPageProps {
   params: { region: string; destination: string };
 }
-
-const slugify = (value: string) =>
-  value
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[^\p{Letter}\p{Number}]+/gu, '-')
-    .replace(/(^-|-$)+/g, '');
 
 export async function generateStaticParams() {
   const regions = await getRegions();

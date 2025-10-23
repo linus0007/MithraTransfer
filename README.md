@@ -9,7 +9,9 @@ npm install
 npm run dev
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+> **Important:** this is a dynamic Next.js application. Opening the files directly from the filesystem will only show an
+> unstyled mock-up. Always run `npm run dev` (or `npm run build && npm start`) and browse to
+> [http://localhost:3000](http://localhost:3000) to see the fully styled React experience.
 
 ## Features
 

@@ -34,6 +34,7 @@ const resources: Resource = {
         destination: 'Destination',
         vehiclePassengers: 'Vehicle / Passengers',
         price: 'Price',
+        loading: 'Loading pricing…',
         empty: 'No pricing data available for this region.'
       },
       footer: 'Mithra Travel © 2025. All rights reserved.'
@@ -59,6 +60,7 @@ const resources: Resource = {
         destination: 'Varış Noktası',
         vehiclePassengers: 'Araç / Yolcu',
         price: 'Fiyat',
+        loading: 'Fiyatlar yükleniyor…',
         empty: 'Bu bölge için fiyat bilgisi bulunamadı.'
       },
       footer: 'Mithra Travel © 2025. Tüm hakları saklıdır.'
@@ -84,6 +86,7 @@ const resources: Resource = {
         destination: 'Направление',
         vehiclePassengers: 'Транспорт / Пассажиры',
         price: 'Стоимость',
+        loading: 'Загрузка тарифов…',
         empty: 'Нет данных по ценам для этого региона.'
       },
       footer: 'Mithra Travel © 2025. Все права защищены.'
@@ -109,6 +112,7 @@ const resources: Resource = {
         destination: 'Reiseziel',
         vehiclePassengers: 'Fahrzeug / Passagiere',
         price: 'Preis',
+        loading: 'Preise werden geladen…',
         empty: 'Keine Preisdaten für diese Region verfügbar.'
       },
       footer: 'Mithra Travel © 2025. Alle Rechte vorbehalten.'
@@ -134,6 +138,7 @@ const resources: Resource = {
         destination: 'الوجهة',
         vehiclePassengers: 'المركبة / الركاب',
         price: 'السعر',
+        loading: 'جاري تحميل الأسعار…',
         empty: 'لا توجد بيانات أسعار لهذه المنطقة.'
       },
       footer: 'Mithra Travel © 2025. جميع الحقوق محفوظة.'
@@ -159,6 +164,7 @@ const resources: Resource = {
         destination: 'Destino',
         vehiclePassengers: 'Vehículo / Pasajeros',
         price: 'Precio',
+        loading: 'Cargando tarifas…',
         empty: 'No hay datos de precios disponibles para esta región.'
       },
       footer: 'Mithra Travel © 2025. Todos los derechos reservados.'
@@ -184,6 +190,7 @@ const resources: Resource = {
         destination: 'Bestemming',
         vehiclePassengers: 'Voertuig / Passagiers',
         price: 'Prijs',
+        loading: 'Prijzen worden geladen…',
         empty: 'Geen prijsgegevens beschikbaar voor deze regio.'
       },
       footer: 'Mithra Travel © 2025. Alle rechten voorbehouden.'
