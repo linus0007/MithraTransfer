@@ -1,6 +1,6 @@
 # Mithra Transfer — Next.js Edition
 
-A modern, multilingual, multi-currency transfer pricing web application for Mithra Travel, rebuilt with Next.js 15, React 19, Tailwind CSS, and TypeScript.
+A modern, multilingual, multi-currency transfer pricing web application for Mithra Travel, rebuilt with Next.js 14, React 18, Tailwind CSS, and TypeScript.
 
 ## Getting Started
 
