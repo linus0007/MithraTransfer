@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mithra Travel | Antalya Airport Transfer & Private Rides</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <div class="container header-inner">
+        <a href="#top" class="brand" aria-label="Mithra Travel home">
+          <span class="brand-mark">M</span>
+          <span class="brand-text">
+            <strong>Mithra</strong>
+            <small>Travel</small>
+          </span>
+        </a>
+        <nav class="primary-nav" aria-label="Main">
+          <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu">
+            <span class="nav-toggle-line"></span>
+            <span class="nav-toggle-line"></span>
+            <span class="nav-toggle-line"></span>
+            <span class="sr-only">Menu</span>
+          </button>
+          <ul id="nav-menu">
+            <li><a href="#booking">Book a transfer</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#fleet">Fleet</a></li>
+            <li><a href="#pricing">Price list</a></li>
+            <li><a href="#testimonials">Reviews</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+        <a class="cta-button" href="#booking">Get a quote</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-heading">
+        <div class="container hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow">Premium Antalya transfers</p>
+            <h1 id="hero-heading">Seamless airport & city rides with Mithra Travel</h1>
+            <p>
+              Enjoy stress-free private transfers across Antalya and the
+              Mediterranean Riviera. Door-to-door journeys, flight monitoring, and
+              professional chauffeurs deliver the five-star experience Mithra Travel
+              is known for.
+            </p>
+            <div class="hero-actions">
+              <a class="cta-button" href="#booking">Book your ride</a>
+              <a class="ghost-button" href="#pricing">See all prices</a>
+            </div>
+            <ul class="hero-highlights">
+              <li>24/7 operation</li>
+              <li>Meet &amp; greet service</li>
+              <li>Free cancellation up to 12h</li>
+            </ul>
+          </div>
+          <div class="hero-form" id="booking">
+            <div class="card">
+              <h2>Instant quote</h2>
+              <form id="booking-form" autocomplete="off">
+                <div class="form-field">
+                  <label for="pickup">Pick-up region</label>
+                  <select id="pickup" data-select="pickup" required>
+                    <option value="" disabled selected>Select pick-up</option>
+                  </select>
+                </div>
+                <div class="form-field">
+                  <label for="destination">Destination</label>
+                  <select id="destination" data-select="destination" required>
+                    <option value="" disabled selected>Select destination</option>
+                  </select>
+                </div>
+                <div class="form-field">
+                  <label for="vehicle">Vehicle type</label>
+                  <select id="vehicle" required>
+                    <option value="" disabled selected>Select vehicle</option>
+                    <option value="passenger_car">Passenger Car (1-3 pax)</option>
+                    <option value="minibus">Minibus (4-7 pax)</option>
+                    <option value="crafter">Crafter (8-13 pax)</option>
+                    <option value="ultra_lux">UltraLux (VIP)</option>
+                  </select>
+                </div>
+                <div class="form-row">
+                  <div class="form-field">
+                    <label for="passengers">Passengers</label>
+                    <input
+                      id="passengers"
+                      type="number"
+                      min="1"
+                      max="16"
+                      step="1"
+                      value="2"
+                      required
+                    />
+                  </div>
+                  <div class="form-field">
+                    <label for="date">Date</label>
+                    <input id="date" type="date" required />
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-field">
+                    <label for="time">Pick-up time</label>
+                    <input id="time" type="time" required />
+                  </div>
+                  <div class="form-field">
+                    <label for="return">
+                      <input id="return" type="checkbox" /> Return transfer needed
+                    </label>
+                  </div>
+                </div>
+                <button type="submit" class="cta-button full-width">Calculate fare</button>
+              </form>
+              <div class="quote-result" role="status" aria-live="polite">
+                Select a route to see your guaranteed Mithra Travel fare.
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="features" id="services">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Why Mithra Travel</p>
+            <h2>Trusted by holidaymakers, hoteliers, and corporate travelers</h2>
+            <p>
+              Operating from Antalya since 2006, Mithra Travel delivers premium
+              airport transfers, intercity journeys, and bespoke chauffeured
+              services. Our fleet and bilingual team cover the entire coastline from
+              Gazipaşa to Fethiye.
+            </p>
+          </div>
+          <div class="feature-grid">
+            <article class="feature-card">
+              <div class="feature-icon" aria-hidden="true">🚘</div>
+              <h3>Modern fleet</h3>
+              <p>
+                Travel in comfort with late-model Mercedes, Volkswagen, and luxury
+                sedans maintained by our in-house technicians.
+              </p>
+            </article>
+            <article class="feature-card">
+              <div class="feature-icon" aria-hidden="true">🛬</div>
+              <h3>Airport specialists</h3>
+              <p>
+                Flight tracking and meet-and-greet service ensure a seamless arrival
+                at Antalya, Gazipaşa, and Isparta airports.
+              </p>
+            </article>
+            <article class="feature-card">
+              <div class="feature-icon" aria-hidden="true">🕒</div>
+              <h3>Round-the-clock support</h3>
+              <p>
+                Dispatchers are available 24/7 via phone, WhatsApp, and email to
+                manage changes or special requests instantly.
+              </p>
+            </article>
+            <article class="feature-card">
+              <div class="feature-icon" aria-hidden="true">🛡️</div>
+              <h3>Fully licensed &amp; insured</h3>
+              <p>
+                We operate with D2 certified vehicles, comprehensive passenger
+                insurance, and vetted professional drivers.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="fleet" id="fleet">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Vehicle options</p>
+            <h2>Choose the perfect ride for your party size</h2>
+            <p>
+              From private sedans to executive minibuses, Mithra Travel matches your
+              transfer to the right vehicle class.
+            </p>
+          </div>
+          <div class="fleet-grid">
+            <article class="fleet-card">
+              <h3>Passenger Car</h3>
+              <p>
+                Ideal for couples and small families. Climate-controlled sedans with
+                bottled water and Wi-Fi on board.
+              </p>
+              <ul>
+                <li>1-3 passengers</li>
+                <li>2 large suitcases</li>
+                <li>Free child seats on request</li>
+              </ul>
+            </article>
+            <article class="fleet-card">
+              <h3>Minibus</h3>
+              <p>
+                Spacious Mercedes Vito and V-Class vehicles for mid-sized groups or
+                golf parties seeking premium comfort.
+              </p>
+              <ul>
+                <li>4-7 passengers</li>
+                <li>Slide doors for easy boarding</li>
+                <li>Complimentary refreshments</li>
+              </ul>
+            </article>
+            <article class="fleet-card">
+              <h3>Crafter</h3>
+              <p>
+                High-roof Volkswagen Crafters with custom interiors, perfect for
+                larger families and incentive trips.
+              </p>
+              <ul>
+                <li>8-13 passengers</li>
+                <li>Generous luggage area</li>
+                <li>On-board entertainment</li>
+              </ul>
+            </article>
+            <article class="fleet-card">
+              <h3>UltraLux</h3>
+              <p>
+                VIP Sprinters and S-Class limousines for diplomatic visits, wedding
+                celebrations, and executive delegations.
+              </p>
+              <ul>
+                <li>Premium leather seating</li>
+                <li>Ambient lighting &amp; minibar</li>
+                <li>Dedicated concierge</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="pricing" id="pricing">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Transparent fares</p>
+            <h2>Full price list for all 38 regions &amp; vehicle classes</h2>
+            <p>
+              Search any combination of pick-up region and destination to view the
+              confirmed Mithra Travel fare. Prices are quoted in Euro per vehicle,
+              including taxes and parking fees.
+            </p>
+          </div>
+          <div class="filters">
+            <div class="form-field">
+              <label for="filter-pickup">Pick-up region</label>
+              <select id="filter-pickup" data-select="pickup">
+                <option value="">All pick-up regions</option>
+              </select>
+            </div>
+            <div class="form-field">
+              <label for="filter-destination">Destination</label>
+              <select id="filter-destination" data-select="destination">
+                <option value="">All destinations</option>
+              </select>
+            </div>
+            <div class="form-field search-field">
+              <label for="filter-search">Quick search</label>
+              <input
+                type="search"
+                id="filter-search"
+                placeholder="Type to filter results"
+                aria-label="Filter price table"
+              />
+            </div>
+          </div>
+          <div class="table-wrapper">
+            <table class="price-table">
+              <thead>
+                <tr>
+                  <th>Pick-up</th>
+                  <th>Destination</th>
+                  <th>Passenger Car</th>
+                  <th>Minibus</th>
+                  <th>Crafter</th>
+                  <th>UltraLux</th>
+                </tr>
+              </thead>
+              <tbody id="price-table-body"></tbody>
+            </table>
+            <p class="table-footnote">
+              Rates are one-way per vehicle. Return journeys receive 10% discount
+              when booked together.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="testimonials" id="testimonials">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Guest feedback</p>
+            <h2>Loved by travellers from 60+ countries</h2>
+          </div>
+          <div class="testimonial-grid">
+            <figure class="testimonial-card">
+              <blockquote>
+                “Our family of six used Mithra Travel for airport transfers and
+                daily trips to Belek golf courses. Impeccable timing and spotless
+                vehicles.”
+              </blockquote>
+              <figcaption>— Sarah P., United Kingdom</figcaption>
+            </figure>
+            <figure class="testimonial-card">
+              <blockquote>
+                “Professional drivers, cold drinks, and instant WhatsApp updates.
+                Mithra is the only company we trust for VIP guest movements in
+                Antalya.”
+              </blockquote>
+              <figcaption>— Mehmet A., Hotel GM</figcaption>
+            </figure>
+            <figure class="testimonial-card">
+              <blockquote>
+                “Booked a last-minute transfer from Kaş to the airport. The team
+                handled everything smoothly with a luxury Sprinter.”
+              </blockquote>
+              <figcaption>— Elena K., Ukraine</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="cta">
+        <div class="container cta-inner">
+          <div>
+            <h2>Need a tailored itinerary?</h2>
+            <p>
+              Our concierge team can coordinate sightseeing, yacht charters, and
+              multi-day journeys across Türkiye.
+            </p>
+          </div>
+          <a class="cta-button" href="mailto:info@mithratravel.com">Plan with us</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div class="container footer-grid">
+        <div>
+          <a href="#top" class="brand brand-footer">
+            <span class="brand-mark">M</span>
+            <span class="brand-text">
+              <strong>Mithra</strong>
+              <small>Travel</small>
+            </span>
+          </a>
+          <p>
+            Mithra Travel is a licensed Antalya-based travel agency specialising in
+            airport transfers, chauffeured services, and bespoke excursions along
+            the Turkish Riviera.
+          </p>
+        </div>
+        <div>
+          <h3>Contact</h3>
+          <ul class="contact-list">
+            <li><a href="tel:+902422550707">+90 242 255 07 07</a></li>
+            <li><a href="https://wa.me/905322550707" target="_blank" rel="noreferrer">WhatsApp Support</a></li>
+            <li><a href="mailto:info@mithratravel.com">info@mithratravel.com</a></li>
+            <li>24/7 operations desk</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Office</h3>
+          <address>
+            Mithra Travel<br />
+            Lara Caddesi No: 12<br />
+            Antalya, Türkiye
+          </address>
+        </div>
+        <div>
+          <h3>Follow</h3>
+          <ul class="social-list">
+            <li><a href="https://www.facebook.com/mithratravel" target="_blank" rel="noreferrer">Facebook</a></li>
+            <li><a href="https://www.instagram.com/mithratravel" target="_blank" rel="noreferrer">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/company/mithra-travel" target="_blank" rel="noreferrer">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <p>© <span id="year"></span> Mithra Travel. All rights reserved.</p>
+        <a href="#top" class="back-to-top">Back to top ↑</a>
+      </div>
+    </footer>
+
+    <script src="assets/js/main.js" type="module"></script>
+  </body>
+</html>
